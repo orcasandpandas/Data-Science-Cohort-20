@@ -1,0 +1,18 @@
+# name: WCDJ
+# source: WCDJ.csv
+# importDate: 2020-12-14T18:36:47.715Z
+# attribute -- name: Year, type: numeric, editable: true
+# attribute -- name: Residential Use, type: numeric, unit: acre-feet, editable: true
+# attribute -- name: Agricultural Use, type: numeric, unit: acre-feet, editable: true
+# attribute -- name: Livestock Use, type: numeric, unit: acre-feet, editable: true
+# attribute -- name: Commercial Use, type: numeric, unit: acre-feet, editable: true
+# attribute -- name: Industrial and Mining Use, type: numeric, unit: acre-feet, editable: true
+# attribute -- name: Power Use, type: numeric, unit: acre-feet, editable: true
+# attribute -- name: Precipitation, type: numeric, unit: in., editable: true
+# attribute -- name: Human Population, type: numeric, unit: # of people, editable: true
+Year,Residential Use,Agricultural Use,Livestock Use,Commercial Use,Industrial and Mining Use,Power Use,Precipitation,Human Population
+1995,36750,446612,3774,4599,133,2440,7.6,158059
+2000,39144,510916,4590,4750,100,2775,10.2,174880
+2005,40803,469830,6981,11266,119,2152,10.4,189199
+2010,42087,393480,4393,7875,194,1966,9.8,209233
+2015,37605,333449,3117,6261,46,2023,12.8,216577
